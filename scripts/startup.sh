@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-VERSION="CHANGED_BY_RELEASE_SCRIPT"
+VERSION="1.0.0"
 
 printf "Running %s version %s\n" "$(basename "$0")" "${VERSION}"
